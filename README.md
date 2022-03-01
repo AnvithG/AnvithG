@@ -2,7 +2,8 @@
 - 15 years old, Loves to CODE
 - 👀 I’m interested in ...learning new things in technology
 - 🌱 I’m currently learning ...Java and R
-- 💞️ I’m looking to collaborate on ...
+- Currently working on app and web developement
+- Working with groups and communities on Discord.....
 - 📫 How to reach me ...by my email anvith.gudem@gmail.com
 
 <!---
