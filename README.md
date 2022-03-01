@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnvithG, a coder who wants to learn more and more
-- 15 years old, Loves to CODE
+- 👋 Hi, I’m @AnvithG, A programmer who wants to learn more and more in the world of coding
+- 15 years old, Loves to explore new things in programming
 - 👀 I’m interested in ...learning new things in technology
 - 🌱 I’m currently learning ...R
 - Working on app and web developement using Python and HTML
